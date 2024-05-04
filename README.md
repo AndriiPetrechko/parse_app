@@ -1,1 +1,3 @@
-# parse_app
+# npm i
+
+# npm start
